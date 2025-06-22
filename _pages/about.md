@@ -30,7 +30,7 @@ I am expected to graduate in June 2026 and am currently seeking Ph.D. opportunit
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/ijcai25_coratt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A Correlation Manifold Self-Attention Network for EEG Decoding
@@ -45,7 +45,7 @@ A Correlation Manifold Self-Attention Network for EEG Decoding
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/ijcai24_gdlnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Grassmannian Manifold Self-Attention Network for Signal Classification](https://www.ijcai.org/proceedings/2024/0564.pdf)
