@@ -62,7 +62,7 @@ Rui Wang, **Chen Hu**, Ziheng Chen, Xi Wu, Xinyu Song
 
 
 # 🎖 Honors and Awards
-- 🥇 2025.04: Postgraduate Research & Practice Innovation Program of Jiangsu Province – **Principal Investigator**  
+- 🥇 2025.04: Postgraduate Research &amp; Practice Innovation Program of Jiangsu Province – **Principal Investigator**  
 - 🥈 2024.08: Second Prize (Enterprise Track), National Finals of the 15th China College Students’ Innovation Competition
 
 # 📖 Educations
